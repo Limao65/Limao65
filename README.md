@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LIMÃO65.
+- 👋 Hi, I’m @LIMÃO65.
 - 👀 I’m interested in APRENDER PROGRAMAÇÃO.
 - 🌱 I’m currently learning PENSAMENTO COMPUTACIONAL pela SEED.
 - 💞️ I’m looking to collaborate on LINGUAGEM JAVASCRIPT e SCRATCH.
